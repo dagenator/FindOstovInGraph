@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "WdPQRJGCOB5QBX0yP/OtTyjvxmZxm3wPT8nDF7RqtnsyL1gL+fUA0jdnRBj7EpCoEivhBUJh0bW6uPGQ1Pl5PA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\ShortestPathAlgorithm\\ShortestPathAlgorithm\\ShortestPathAlgorithm.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\graphx\\3.0.0\\graphx.3.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\quickgraphcore\\1.0.0\\quickgraphcore.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
